@@ -1,0 +1,60 @@
+/*!
+ * style.css
+ * Erfassen Sie Ihre Stylesheet Anweisungen gleich unterhalb.
+ * Beispielklasse und ID können Sie entfernen.
+ */
+ 
+ body{
+	margin: 0%;
+	padding: 5%;
+	background-color: #ffffff; 
+
+html {
+    height: 101%;
+}
+
+.klasse {
+    color: black;
+}
+
+#id {
+    color: black;
+}
+
+.formclass {
+	padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+	border-radius: 18px; 
+	border:5px solid #1A1A1B;
+	color: white;
+}
+
+#ausgabe {
+	padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+	border-radius: 18px; 
+	border:5px solid #1A1A1B;
+	color: white;
+}
+
+#ergebnis {
+	color: white;
+}
+
+.checkbox {
+	color: white;
+}
+.thead {
+	color: #ffffff;
+	font: 15px arial, sans-serif
+}
+
+
+/*# GClNvtWWWrmmj2MuLtJL9e8b+padnX2ge/2mdB41GWNpe5F/dOiB6xFggRXGdVqRk== */
+
+
+/*# sourceMappingURL=bootstrap.css.map */
